@@ -44,3 +44,10 @@
     * emphasis on learning while interacting with an environment
     * clear goal, and correct behavior requires planning or foresight that takes into account delayed effects of one's choices
     
+1.6 Summary
+  * RL is a computational approach to understanding and automating goal-directed learning and decision making
+  * RL uses the formal framework of Markov decision processes to define the interaction between a learning agent and it's environment in terms of states, actions, and rewards
+  * The concepts of value and value function are key to most of the RL methods in this book.
+  
+1.7 Early history of RL
+  
